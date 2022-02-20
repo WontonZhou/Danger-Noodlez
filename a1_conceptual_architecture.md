@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Group 19 Danger Noodlez
-description: Analyze and investigate the architecture of Apollo Auto
+title: Assignment 1 Conceptual Architecture
+description: Present the conceptual structure of Apollo Auto
 ---
 
 # Assignment 1 Report
