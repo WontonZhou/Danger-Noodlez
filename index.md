@@ -19,22 +19,27 @@ Haoyun Yang							              18hy58@queensu.ca
 
 ## Table of Contents
 
-- [Report Content](#Report Content)
+- [Report Content](#Report_Content)
    - [Sub-system](#Sub-system)
     - [Abstract](#Abstract)
     - [Introduction](#Introduction)
     - [Derivation-Process](#Derivation-Process)
-    - [Map_Engine](#Map_Engine)
+    - [Map Engine](#Map_Engine)
     - [Localization](#localization)
     - [Control](#Control)
     - [Planning](#planning)
     - [Perception](#perception)
     - [HMI](#HMI)
     - [Perception](#perception)
-    - [Conceptual_architecture](#Conceptual_architecture)
-- [Use_Cases](#Use_Cases)
+    - [Conceptual architecture](#Conceptual_architecture)
+- [Use Cases](#Use_Cases)
 
 - [Concurrency](#Concurrency)
+
+- [Development_Views](#Development_Views)
+   - [Task_Division](#Task_Division)
+   - [Test plan](#Test_Plan)
+   - [Maintainance](#Maintainance)
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
