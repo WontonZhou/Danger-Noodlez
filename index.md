@@ -1,4 +1,4 @@
-## Welcome to Danger Noodlez
+# Welcome to Danger Noodlez
 
 This website introduces the computer architecture of Apollo, a atonomous vehicle system. In this website, our group talked about what the system is capable of, what the components of the architecture are, what the interactions between different modules are and user cases with sequence diagrams and description. 
 
