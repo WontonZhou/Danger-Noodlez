@@ -1,1 +1,1 @@
-* [A1 ODF](https://arxiv.org/pdf/1906.05113.pdf)
+* [A1 PDF](https://arxiv.org/pdf/1906.05113.pdf)
