@@ -1,1 +1,5 @@
-* [A1 PDF](https://arxiv.org/pdf/1906.05113.pdf)
+---
+layout: default
+title: Assignment 1: Conceptual Architecture
+description: Analyze the conceptual structure of the Apollo Auto
+---
