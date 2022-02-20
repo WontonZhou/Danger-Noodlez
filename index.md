@@ -1,11 +1,8 @@
 ## Welcome to Danger Noodlez
 
-You can use the [editor on GitHub](https://github.com/Runfeng-Qian/Danger-Noodlez/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This website introduces the computer architecture of Apollo, a atonomous vehicle system. In this website, our group talked about what the system is capable of, what the components of the architecture are, what the interactions between different modules are and user cases with sequence diagrams and description. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-## Introduction
-Group member 
+## Group member 
 
 Runfeng Qian (group leader)					  18rq10@queensu.ca
 
@@ -19,7 +16,7 @@ Junyu Yan                             19jy28@queensu.ca
 
 Haoyun Yang							              18hy58@queensu.ca
 
-This website introduces the computer architecture of Apollo, a atonomous vehicle system. In this website, our group talked about what the system is capable of, what the components of the architecture are, what the interactions between different modules are and user cases with sequence diagrams and description. 
+
 
 ### Markdown
 
