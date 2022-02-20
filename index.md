@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/Runfeng-Qian/Danger-Noodle
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Introduction
-Group mumber 
+Group member 
 
 Runfeng Qian (group leader)					  18rq10@queensu.ca
 
