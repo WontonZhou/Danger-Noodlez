@@ -5,13 +5,20 @@ You can use the [editor on GitHub](https://github.com/Runfeng-Qian/Danger-Noodle
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ## Introduction
-<p> Group mumber </p>
-<p> Runfeng Qian (group leader)					  18rq10@queensu.ca </p>
-<p> Wonton Zhou							              19bz6@queensu.ca </p>
-<p> Ziheng Yang                           18zy59@queensu.ca </p>
-<p> Runze Lin                             18rl30@queensu.ca </p>
-<p> Junyu Yan                             19jy28@queensu.ca </p>
-<p> Haoyun Yang							              18hy58@queensu.ca </p>
+Group mumber 
+
+Runfeng Qian (group leader)					  18rq10@queensu.ca
+
+Wonton Zhou							              19bz6@queensu.ca
+
+Ziheng Yang                           18zy59@queensu.ca
+
+Runze Lin                             18rl30@queensu.ca
+
+Junyu Yan                             19jy28@queensu.ca
+
+Haoyun Yang							              18hy58@queensu.ca
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
