@@ -17,4 +17,4 @@ Junyu Yan 19jy28@queensu.ca
 
 Haoyun Yang 18hy58@queensu.ca
 
-[back](./)
+[Back](./)
