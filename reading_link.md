@@ -14,7 +14,6 @@ description: Some extra reading for autonomous vehicle
 https://github.com/ApolloAuto/apollo/blob/master/modules/perception/README.md
 
 ## Predication
-https://en.wikipedia.org/wiki/Predication_(computer_architecture)
 
 ## Planning
 
