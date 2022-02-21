@@ -7,10 +7,10 @@ description: Present the conceptual structure of Apollo Auto
 
 This assignment introduces the conceptual architecture of Apollo, an autonomous vehicle system. For this assignment, our group talked about what the system is capable of, what the components of the architecture are, what the interactions between different modules are and user cases with sequence diagrams and descriptions.
 
-![pic_report](./picture/report1.png)
 # [Assignment 1: Report](./doc/guidelines.pdf)
+![pic_report](./picture/report1.png)
 
-![pic_presentation](./picture/presentation1.png)
 # Assignment 1: Presentation
+![pic_presentation](./picture/presentation1.png)
 
 [Back to Homepage](./)
