@@ -18,7 +18,7 @@ description: Some extra reading for autonomous vehicle
 
 ## Localization
 
-[Consistent decentralized cooperative localization for autonomous vehicles using LiDAR, GNSS, and HD maps](./doc/Journal of Field Robotics - 2021 - H ry - Consistent decentralized cooperative localization for autonomous vehicles using.pdf)
+[Consistent decentralized cooperative localization for autonomous vehicles using LiDAR, GNSS, and HD maps](./doc/Consistent_decentralized_cooperative_localization_for_autonomous_vehicles_using_LiDAR_GNSS_and_HD_maps.pdf)
 
 ## Perception
 
