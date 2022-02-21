@@ -34,6 +34,10 @@ description: Some extra reading for autonomous vehicle
 
 [Autonomous vehicle perception: The technology of today and tomorrow](./doc/1-s2.0-S0968090X18302134-main.pdf)
 
+[Apollo's perception module introduced by the official website](https://apollo.auto/platform/perception.html)
+
+[How does Apollo Auto proceed 3D obstacle perception](https://github.com/ApolloAuto/apollo/blob/master/docs/specs/3d_obstacle_perception.md)
+
 ## Prediction
 
 [GitHub page for prediction module](https://github.com/ApolloAuto/apollo/blob/master/modules/prediction/README.md)
