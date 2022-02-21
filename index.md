@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Group 19 Danger Noodlez
-description: Analyze and investigate the architecture of Apollo Auto
+description: Analyze and investigate the architecture of Apollo
 ---
 ![apollo_logo](./picture/apollo_logo.jfif)
 # Welcome to Danger Noodlez
