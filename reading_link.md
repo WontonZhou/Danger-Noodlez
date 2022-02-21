@@ -26,6 +26,8 @@ description: Some extra reading for autonomous vehicle
 
 [GitHub page for Localization module](https://github.com/ApolloAuto/apollo/blob/master/modules/localization/README.md)
 
+[Apollo Auto localization method](https://aicurious.io/posts/apollo-sdc-lesson-3-localization/)
+
 ## Perception
 
 [GitHub page for perception module](https://github.com/ApolloAuto/apollo/blob/master/modules/perception/README.md)
