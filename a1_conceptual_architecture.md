@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Assignment 1 Conceptual Architecture
-description: Present the conceptual structure of Apollo Auto
+description: Present the conceptual structure of Apollo
 ---
 # Overview
 
