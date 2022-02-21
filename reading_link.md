@@ -14,7 +14,7 @@ https://github.com/ApolloAuto/apollo-platform
 ## Perception
 https://github.com/ApolloAuto/apollo/blob/master/modules/perception/README.md
 
-## Predication
+## Prediction
 
 ## Planning
 
