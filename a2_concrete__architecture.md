@@ -1,0 +1,15 @@
+layout: default
+title: Assignment 2 Concrete Architecture
+description: Present the concrete structure of Apollo
+---
+# [Overview](./reading_link.html)
+
+This assignment introduces the concrete architecture of Apollo, an autonomous vehicle system. For this assignment, our group talked about what the system is capable of, what the components of the architecture are, what the interactions between different modules are and user cases with sequence diagrams and descriptions.
+
+# [Assignment 2: Report](./doc/CISC_322_Group_Project_report_A1.pdf)
+![pic_report](./picture/322A2 report picturepng)
+
+# [Assignment 2: Presentation](./doc/CISC_322_Group_Project_slide_A1.pdf)
+![pic_presentation](./picture/presentation1.png)
+
+[Back to Homepage](./)
