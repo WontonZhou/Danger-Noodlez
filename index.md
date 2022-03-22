@@ -10,7 +10,7 @@ Hello. We are Danger Noodlez. This is our group's project for the CISC 322 Softw
 
 ## [A1-Conceptual Architecture of Apollo](./a1_conceptual_architecture.html)
 
-## [A2-Concrete Architecture of Apollo](./a2_conceptual_architecture.html)
+## [A2-Concrete Architecture of Apollo](./Concrete_architecture_A2.html)
 
 ## [Reading Link](./reading_link.html)
 
