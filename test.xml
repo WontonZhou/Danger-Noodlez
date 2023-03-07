@@ -1,0 +1,52 @@
+<ruleset name="My Custom Ruleset">
+  <description>
+    This is a custom PMD ruleset file that enforces coding standards and best practices for Java code.
+  </description>
+
+  <!-- Rule for detecting unused local variables -->
+  <rule name="UnusedLocalVariable"
+        language="java"
+        message="Avoid unused local variables"
+        class="net.sourceforge.pmd.lang.java.rule.unusedcode.UnusedLocalVariable">
+    <priority>1</priority>
+  </rule>
+
+  <!-- Rule for enforcing naming conventions for classes and interfaces -->
+  <rule name="NamingConventions"
+        language="java"
+        message="Use a consistent naming convention for classes and interfaces"
+        class="net.sourceforge.pmd.lang.java.rule.naming.NamingConventionRule">
+    <description>
+      This rule checks the names of Java classes and interfaces against a configurable naming convention.
+    </description>
+    <priority>3</priority>
+    <properties>
+      <property name="format" value="^[A-Z][a-zA-Z0-9]*$"/>
+    </properties>
+  </rule>
+
+  <!-- Rule for enforcing maximum method length -->
+  <rule name="ExcessiveMethodLength"
+        language="java"
+        message="Avoid methods that are too long"
+        class="net.sourceforge.pmd.lang.java.rule.metrics.ExcessiveMethodLength">
+    <description>
+      This rule detects methods that have too many lines of code and may be difficult to understand or maintain.
+    </description>
+    <priority>2</priority>
+    <properties>
+      <property name="maximum" value="50"/>
+    </properties>
+  </rule>
+
+  <!-- Rule for detecting unused private fields -->
+  <rule name="UnusedPrivateField"
+        language="java"
+        message="Avoid unused private fields"
+        class="net.sourceforge.pmd.lang.java.rule.unusedcode.UnusedPrivateField">
+    <description>
+      This rule detects private fields in Java classes that are not used and may be unnecessary.
+    </description>
+    <priority>1</priority>
+  </rule>
+</ruleset>
